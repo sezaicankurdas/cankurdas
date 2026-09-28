@@ -1,0 +1,8 @@
+{
+  "name": "Kisisel CloudStream Deposu",
+  "description": "Dort secili kaynak; besinci kaynak gelistirme asamasinda",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sezaicankurdas/cankurdas/builds/plugins.json"
+  ]
+}
